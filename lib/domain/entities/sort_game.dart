@@ -1,0 +1,3 @@
+enum SortGame {
+  distance, daysAway
+}
